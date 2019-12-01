@@ -1,0 +1,218 @@
+# Show Animated Splash
+
+anisplash(
+  #-- Number of Loop
+ 3,
+  
+  #-- Frame 1 [ Image, duration in millisecond ]. <AROMA Resource Dir>/splash/a[1..6].png
+ "splash/a1", 500,
+ "splash/a2", 50,
+ "splash/a3", 50,
+ "splash/a4", 50,
+ "splash/a5", 50,
+ "splash/a6", 50
+);
+
+# information
+ini_set("rom_name",             "Debloated Miui and AOSP ROM");
+ini_set("rom_author",           "@Number666 and AL_IRAQI");
+ini_set("rom_device",           "Android 6.x.x - 9.x.x");
+
+ini_set("rom_version",          "1.0");
+ini_set("rom_date",             "01.12.2019");
+
+
+# Set Small Font to Support all fonts
+
+loadlang("langs/en.lang");
+
+fontresload( "0", "ttf/Roboto-Regular.ttf;", "16" ); 
+
+
+theme("tbo");
+
+
+
+
+viewbox(
+ 
+ "by NxtSys and AL_IRAQI",
+ 
+ "This Aroma Script will debloat your current Rom\n\n"+
+
+ 
+
+
+
+ "Press Next to continue...",
+ "icons/next"
+);
+
+
+# AGREEMENT
+
+agreebox(
+  #-- Title
+ "About",
+  
+  #-- Subtitle / Description
+ "This Script will debloat your current Rom",
+
+  #-- Icon
+ "@license",
+  
+  #-- Text Content ( Read from <AROMA Resource Dir>/license.txt )
+ "I'm not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed (like it did for me... YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.. Your warranty will be void if you tamper with any part of your device / software.",
+  
+  #-- Checkbox Text
+ "I Agree with this Agreement...",
+  
+  #-- Unchecked Alert Message
+ "Please agree the agreement..."
+);
+
+
+#Install Select box
+
+checkbox("","<b>Google Apps #1</b>",
+"@alert",
+"checkbox.prop",
+"Choose the apps you want to Remove", "", 2,
+
+"<b>Calculator</b>","", 0,
+"<b>Calendar</b>","", 0,
+"<b>Chrome</b>","", 0,
+"<b>Clock</b>","", 0,
+"<b>CloudPrint</b>","", 0,
+"<b>Drive</b>","", 0,  
+"<b>Gmail</b>","", 0,
+"<b>Google Now Launcher</b>","", 0,
+"<b>GoogleHindiIME</b>","", 0,
+"<b>GoogleJapaneseInput</b>","", 0,
+"<b>GooglePinyinIME</b>","", 0,
+"<b>Google Plus</b>","", 0,
+"<b>GoogleTTS</b>","", 0,
+"<b>Hangouts</b>","", 0
+);
+
+checkbox("","<b>Google Apps #2</b>",
+"@alert",
+"checkbox1.prop",
+"Choose the apps you want to Remove", "", 2,
+
+"<b>Fi</b>","", 0,
+"<b>Google Keyboard</b>","", 0,
+"<b>KoreanIME</b>","", 0,
+"<b>Maps</b>","", 0,
+"<b>Messenger</b>","", 0,
+"<b>Play Books</b>","", 0,
+"<b>Play Games</b>","", 0,
+"<b>Play Movies</b>","", 0,
+"<b>Play Music</b>","", 0,    
+"<b>Photos</b>","", 0,  
+"<b>Talkback</b>","", 0,
+"<b>Google Now</b>","", 0,
+"<b>Youtube</b>","", 0,
+"<b>Wallet</b>","", 0,
+"<b>Duo</b>","", 0
+
+);
+
+checkbox("","<b>Miui Apps #1</b>",
+"@alert",
+"checkbox2.prop",
+"Choose the apps you want to Remove", "", 2,
+"<b>AppValut","Remove AppValut Page in Mi Launcher", 0,
+"<b>Broswer","Remove MiBrowser", 0,
+"<b>Calculator","Remove MiCalculator", 0,
+"<b>Compass","Remove MiCompass", 0,
+"<b>Calendar","Remove MiCalendar", 0,
+"<b>Cleaner","Remove Cleaner feature from Security", 0,
+"<b>FileExplorer","Remove FileExplorer", 0,
+"<b>Facebook","Remove Facebook related apps from System", 0,
+"<b>Feedback","Remove Bugs/Beta reporting app", 0,
+"<b>FM Radio","Remove FM Radio", 0
+
+);
+checkbox("","<b>Miui Apps #2</b>",
+"@alert",
+"checkbox3.prop",
+"Choose the apps you want to Remove", "", 2,
+"<b>Gallery","Remove Gallery", 0,
+"<b>Google Now","Remove Google Now", 0,
+"<b>GameService","Remove Mi GameServices", 0,
+"<b>Mail","Remove Mi Mail ", 0,
+"<b>MiDrop","Remove MiDrop from system", 0,
+"<b>Music","Remove MiMusic", 0,
+"<b>MiuiVideoPlayer","Remove MiVideoPlayer", 0,
+"<b>MiVRFramework","Remove Uselss VRFW", 0,
+"<b>MiPay","Remove MiPay since its China only", 0,
+"<b>Notes","Remove MiNotes", 0,
+"<b>Remote Controller","Remove MiRemote", 0
+);
+checkbox("","<b>Miui Apps #3</b>",
+"@alert",
+"checkbox4.prop",
+"Choose the apps you want to Remove", "", 2,
+"<b>SoundRecorder","Remove Mi SoundRecorder", 0,
+"<b>ScreenRecorder","Remove Mi ScreenRecorder", 0,
+"<b>Search","Remove quick search from Mi Launcher", 0,
+"<b>SogouKeyboard","Remove Chinese Keyboard", 0,
+"<b>Scanner","Remove QC Scanner", 0,
+"<b>VoiceAssist","Remove VoiceAssist China only", 0,
+"<b>Weather","Remove MiWeahter", 0,
+"<b>Wallet","Remove MiWallet China only", 0
+);
+checkbox("","<b>Extra</b>",
+"@alert",
+"checkbox5.prop",
+"Choose the Extra to Install", "", 2,
+"Add Tones", "Ringtones, Notification, Alarm", 0,
+"Hack Lockscreen", "Bypass Lockscreen Security", 0
+);
+checkviewbox(
+   
+   "Ready to Run Script",
+   ""+
+   "All information has been collected for starting the process.\n\n"+
+   "Click Next to start run Script",
+   "icons/confirm",
+   "Reboot the device after installation?",
+   "0",
+   "reboot_it"
+   
+);
+
+install(
+  "Debloating",
+  "This may take few secs"+ 
+   "...\n\nPlease wait until it finished.",
+  "icons/install"
+);
+
+ini_set("text_next", "Finish");
+if getvar("reboot_it")=="1" then
+	ini_set("text_next", "Reboot");
+endif;
+
+viewbox(
+   "Installation Finished!",
+   "Congratulations!\n\n"+
+   "Now your Rom is Debloated!\n\n"+
+   "Enjoy!\n\n"+
+   "Cheers\n\n"+
+   "NxtSys and AL_IRAQI",
+   
+   "icons/info"
+);
+
+alert (
+ "Dev Message",
+ "Enjoy your Debloated ROM!!!",
+ "icons/personalize"
+ );
+
+# Check if reboot checkbox was checked
+if getvar("reboot_it")=="1" then
+	reboot("onfinish");
+endif;

@@ -1,0 +1,9 @@
+<@center><b>[ 16.02.2017 ]</b></@>
+- New add and choose theme AROMA installer (thank's Daniiiik49, dunno, lel on XDA)
+- Updated the AROMA Installer binary to 3.00b1
+- Update Google Calculator
+- Update Google Calendar
+- Update Google Messenger
+
+<@center><b>[ 23.02.2017 ]</b></@>
+- Fix set_perm

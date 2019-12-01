@@ -1,0 +1,826 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.reboot.pn
+ g
+SHA1-Digest: Or0z7AkMHNCNK+6TfLpm45dKK/Q=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.license.png
+SHA1-Digest: 9a9DPs9z8vK3RSTIrpulbR/DiF4=
+
+Name: META-INF/com/google/android/aroma/splash/a1.png
+SHA1-Digest: KZNaKMrmdzP4CgEY+PX04SmHpFg=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.update.p
+ ng
+SHA1-Digest: uZBHRBaNnAr963peffs5uwKiELM=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/cb.png
+SHA1-Digest: 1s31qhbHkhtSFWWIhgBZe4WFY1k=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/titlebar.9.png
+SHA1-Digest: oMcKPPKll3EkTOQwuR3X9zCfPPs=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.customize.pn
+ g
+SHA1-Digest: OC+Fp8FDuTqIbwYW9Q0AWYul6a0=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/cb_focus.png
+SHA1-Digest: emeQCcRcXPQ0T+BLNsHn32SERkw=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/bg.png
+SHA1-Digest: s4KDh5MJOxdiQxYAk0kKErsyS/w=
+
+Name: META-INF/com/google/android/aroma/themes/ics/radio_on.png
+SHA1-Digest: AtxYvwBDKwiZ0kCAS75QW+KP+20=
+
+Name: META-INF/com/google/android/aroma/themes/ics/titlebar.9.png
+SHA1-Digest: Nh9hFKczgNmOa12kaWAA4PBN4Y0=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.menu.png
+SHA1-Digest: dtYb57MaYIjIt7rf5DUAbFXHxdk=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.alert.png
+SHA1-Digest: ukjqcHMwNytQwKwiTuJx0oenbUA=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.welcome.png
+SHA1-Digest: sCKbHkSKA4h3URkaChb52khNS9c=
+
+Name: META-INF/com/google/android/aroma/themes/miui/button.9.png
+SHA1-Digest: Lk2r2icHkTyq62rQVj1GBsgpEmI=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.welcome.p
+ ng
+SHA1-Digest: roShqL/Lhh02yWYvcIWKLobqbKk=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.welcome.png
+SHA1-Digest: sCKbHkSKA4h3URkaChb52khNS9c=
+
+Name: META-INF/com/google/android/aroma/themes/miui/cb_on_sel.png
+SHA1-Digest: XtBrD8xrxgDMclsq80ceG+0e1RQ=
+
+Name: META-INF/com/google/android/aroma/langs/de.lang
+SHA1-Digest: pZmO1xS9QsZLfxmhZ1sJF4D/t5U=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.agreement.pn
+ g
+SHA1-Digest: zcSQ69LRcLQROme1IL5wyfDNvw8=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/cb_on.png
+SHA1-Digest: bAzVoMlLYkP3oTdU1HpemKUoqIM=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.agreemen
+ t.png
+SHA1-Digest: rSxZQTbBzE8o9U9Z/nSbZHhbAjE=
+
+Name: META-INF/com/google/android/aroma/icons/finish.png
+SHA1-Digest: TDmgMMhS9QUebrSbb92fwpE0Auo=
+
+Name: META-INF/com/google/android/aroma/icons/menu.png
+SHA1-Digest: vNa7+I2BSE9QbIAxW9qxQuLmszo=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.customiz
+ e.png
+SHA1-Digest: 9a1V7qi5ueWcoJQ1NkRpCFrYu+I=
+
+Name: META-INF/com/google/android/aroma/icons/update.png
+SHA1-Digest: /TMHtx0Qm4TkPEEeYHxdW6dBApY=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/radio_focus.p
+ ng
+SHA1-Digest: oybX9JE8eJq4vJTeu4Iyf63n9HU=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/font.roboto.bi
+ g.png
+SHA1-Digest: pZ62ZGGBfrNp7DrIkkh9L+lVgZg=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.confirm.png
+SHA1-Digest: qFngpknbqvI7mGWMBQuHc1NBjgQ=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.menu.png
+SHA1-Digest: vNa7+I2BSE9QbIAxW9qxQuLmszo=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.update.png
+SHA1-Digest: 2uSJL/eQId85HvPZ/SDjzCoC5aY=
+
+Name: META-INF/com/google/android/aroma/changelog.txt
+SHA1-Digest: 5l1rEceqfs4QwUEUA3QQ/Efnea8=
+
+Name: META-INF/com/google/android/aroma/langs/ja.lang
+SHA1-Digest: OPJ5Hr0mUTbO2RK21qEkQh15vp0=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.confirm.p
+ ng
+SHA1-Digest: NCySaqUnnYRRyEaeOY6EFzzJhgc=
+
+Name: META-INF/com/google/android/aroma/themes/ics/navbar.9.png
+SHA1-Digest: d8gC4VdmGQWdfMX7XRv0fHnShCM=
+
+Name: META-INF/com/google/android/aroma/themes/miui/cb_on.png
+SHA1-Digest: F2Q/n+et+sWY8RUxDrTn4ph91eg=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.confirm.png
+SHA1-Digest: EWu6Yrb9StGaY5TpNs6z4jYJ0a0=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/button_press.9.pn
+ g
+SHA1-Digest: P0WzgjLyajm9gMKB3lKi3mJwSnk=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/radio_on.png
+SHA1-Digest: u7XEtuBOYdvYcFJszcca6R3qJI8=
+
+Name: META-INF/com/google/android/aroma/icons/personalize.png
+SHA1-Digest: mnAYF0GaMh88zuP56SKiEcxq2pk=
+
+Name: META-INF/com/google/android/aroma/icons/alert.png
+SHA1-Digest: 4vVPQ4oeO+xcr1ttQ56VRZ+7nRU=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.next.png
+SHA1-Digest: HMW6EFtaLuWT0i+uPiiFNl4rgvk=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.alert.pn
+ g
+SHA1-Digest: Q4u/D/MqNc45zw2dV23pBHTGxhM=
+
+Name: META-INF/com/google/android/aroma/themes/ics/cb_press.png
+SHA1-Digest: BgKOZ5Xe8Kow9FfFz8kVdRlIUgQ=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/radio_on_focu
+ s.png
+SHA1-Digest: F+W9HSFPk0Grck+i0on7kEa7NN4=
+
+Name: META-INF/com/google/android/aroma/langs/cn.lang
+SHA1-Digest: 2kpqMLs+fHfPG/8lnm36AbA5GtY=
+
+Name: META-INF/com/google/android/aroma/splash/a5.png
+SHA1-Digest: BIguDzAaI7fNjRHmMm5IBhVZvIg=
+
+Name: META-INF/com/google/android/aroma/ttf/DroidSansFallback.ttf
+SHA1-Digest: ZN4v3nWGirjUxnFK3QjI8Is/rh4=
+
+Name: META-INF/com/google/android/aroma/ams_sample.txt
+SHA1-Digest: uKGUjn5fY/khoLCj+8dEELu+pN4=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/radio_press.png
+SHA1-Digest: u7XEtuBOYdvYcFJszcca6R3qJI8=
+
+Name: META-INF/com/google/android/aroma/themes/ics/radio.png
+SHA1-Digest: 314GTPj6zmGFsauPlmlE+LvZMS0=
+
+Name: META-INF/com/google/android/aroma/icons/agreement.png
+SHA1-Digest: BLCgQbcevGAuuV0SxkEF+2IKpMM=
+
+Name: META-INF/com/google/android/aroma/icons/Thumbs.db
+SHA1-Digest: lNPNIfoebccPieqJSOZLREuWrbo=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/cb_focus.png
+SHA1-Digest: 1+YJAe1AdYboUMSjnC4tMFcAK6k=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/radio_on.png
+SHA1-Digest: t7gk3Tc2k8DWYD42V1S6XmRzoz4=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: gP7QehGA0CXOvun8kdTRnGBAfcA=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.confirm.png
+SHA1-Digest: EWu6Yrb9StGaY5TpNs6z4jYJ0a0=
+
+Name: META-INF/com/google/android/aroma/themes/miui/cb_sel.png
+SHA1-Digest: HreHeG0pIbb2WIJBcsJtfpzT9F4=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/dialog_titleba
+ r.9.png
+SHA1-Digest: cFs8Xxb2eUkqvUgj0pjCG3pW+80=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.license.
+ png
+SHA1-Digest: kmGwMKSnWHe62aZls1ZC3qmp/ko=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/titlebar.9.png
+SHA1-Digest: s/spLE27CIi3/ruLVE44e5j8i2E=
+
+Name: META-INF/com/google/android/aroma/splash/a2.png
+SHA1-Digest: /Gl/BTtTjNLE7FM9ScT8cacunNY=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/radio_on_press
+ .png
+SHA1-Digest: oLJk9ukOeG9D1NMOjlm8MDkX2Hs=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/font.roboto.small
+ .png
+SHA1-Digest: T3mTqddiyAWyfqaFTZz3vlFX4B4=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/titlebar.9.pn
+ g
+SHA1-Digest: Nh9hFKczgNmOa12kaWAA4PBN4Y0=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.next.png
+SHA1-Digest: NcX/Xa48tT1FyE7P7L7R56j36xQ=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/radio_press.pn
+ g
+SHA1-Digest: GJe0RC1aGLdvqY+O9n48bOmS/9E=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/button.9.png
+SHA1-Digest: jv9Gt/26zxDfjsfifkQkdTT8qTc=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.back.png
+SHA1-Digest: 985nfub9+KbU5Xq3sMOmtE13OkE=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.update.pn
+ g
+SHA1-Digest: xG4nxo43VkcgHaULn8h1iqYDVIA=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/button_press.
+ 9.png
+SHA1-Digest: 1McJz4mRTUikw1kRH3rg5MYd7bM=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.customize.png
+SHA1-Digest: Z8SbI0SkuKgA9IVAJnD5xrNLtpE=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.installbu
+ tton.png
+SHA1-Digest: t5MqUEbmiXyvtzU3O++ZDVlhve0=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/bg.png
+SHA1-Digest: QWZ+ybpCBfMznfC9I1+yhPieJWs=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.alert.png
+SHA1-Digest: wI2i6eD5E61OtY3Mzm2a/Dm99wA=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.apps.png
+SHA1-Digest: AlJNRUF7l90Tt7uxtYfWqtao6ZE=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.info.png
+SHA1-Digest: wQcpMkogSFtFq8pl9D+lwdD7yTw=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.personalize.
+ png
+SHA1-Digest: zuoVp1qK2kliMRBwviub6Od92Ds=
+
+Name: META-INF/com/google/android/aroma/themes/ics/cb_on_focus.png
+SHA1-Digest: ETO1DnXoaJnhnTEPLwawpWVwCMI=
+
+Name: META-INF/com/google/android/aroma/icons/install.png
+SHA1-Digest: 4jQwvaI7rzIWej0OwJJDRtr9hF4=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/list.9.png
+SHA1-Digest: Bw9zhKMS2T4Yf0datwKHcM8jELY=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.personali
+ ze.png
+SHA1-Digest: XhiNdQ/pEDCg8BxV4eeGP4H+trA=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/radio_on_focus
+ .png
+SHA1-Digest: CUN2N0IJBHOu60uHDywMJgXy8WM=
+
+Name: META-INF/com/google/android/aroma/themes/ics/radio_focus.png
+SHA1-Digest: VpJzPegQCeVqvENSxqmKjHUhi1k=
+
+Name: META-INF/com/google/android/aroma/langs/fr.lang
+SHA1-Digest: l7nIsEPeVkpUjzHDOHqVDrty+3A=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.next.png
+SHA1-Digest: HMW6EFtaLuWT0i+uPiiFNl4rgvk=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.recovery.
+ png
+SHA1-Digest: Pr43IY1LiwJe1+d0bK+71XpqBIQ=
+
+Name: META-INF/com/google/android/aroma/themes/ics/radio_on_focus.png
+SHA1-Digest: JKRoEWeYJltRn3SML2MfnrgKUQg=
+
+Name: META-INF/com/google/android/aroma/splash/a6.png
+SHA1-Digest: CVIsscgrloVLPO6YrQZJHRI93dY=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.agreement.png
+SHA1-Digest: PN8YJPZy9gSEzTB4qlK30z1o/TM=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/radio.png
+SHA1-Digest: 1wbvEt+0D4I0q/rFu1t19w4Gqow=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.default.
+ png
+SHA1-Digest: KS5YKaMLbQZqNYIu8GO1v0s+iWw=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.personal
+ ize.png
+SHA1-Digest: FAtmV+Ie7DqHJv6tDMhXD+PsESI=
+
+Name: META-INF/com/google/android/aroma/themes/miui/select_push.9.png
+SHA1-Digest: uNdV2Mma/0EoXDgbKurJoQTG5ZU=
+
+Name: META-INF/com/google/android/aroma/sample.png
+SHA1-Digest: ozfWZvDJJ2g4gnjgoUGIi/d7jnI=
+
+Name: META-INF/com/google/android/aroma/langs/id.lang
+SHA1-Digest: klm9t3AtLA2UL2M1jyb7fZFVIEY=
+
+Name: META-INF/com/google/android/aroma/icons/welcome.png
+SHA1-Digest: ZjyGs/r4la7VrriRQUXPk33edrw=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.apps.png
+SHA1-Digest: LPX/mY54nv4K5mBzA4FTu7pi+xk=
+
+Name: META-INF/com/google/android/aroma/themes/ics/font.roboto.small.p
+ ng
+SHA1-Digest: T3mTqddiyAWyfqaFTZz3vlFX4B4=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.menu.png
+SHA1-Digest: HYrcfZ0nwj4f0PDKq5iWmviG/M0=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/font.roboto.big.p
+ ng
+SHA1-Digest: RiGuvH217yFlZjgoZdJHyrUSpIw=
+
+Name: META-INF/com/google/android/aroma/themes/miui/font.roboto.small.
+ png
+SHA1-Digest: T3mTqddiyAWyfqaFTZz3vlFX4B4=
+
+Name: META-INF/com/google/android/aroma/unicode/chinesse.txt
+SHA1-Digest: A82X2WzS7dSC04wdZ4plsDYnesM=
+
+Name: META-INF/com/google/android/aroma/fonts/big.png
+SHA1-Digest: LTsm/bBuKoBD/9k5kbdDr6m5EPA=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/radio_on_focus.pn
+ g
+SHA1-Digest: y84gDQCxWRfq1DsuaYgykndXaQc=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.agreement
+ .png
+SHA1-Digest: q4p+TKC/OqDwa9uJmo+wXboZjTw=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.menu.png
+SHA1-Digest: vNa7+I2BSE9QbIAxW9qxQuLmszo=
+
+Name: META-INF/com/google/android/aroma/unicode/russian_latin.txt
+SHA1-Digest: TbewkgPEZrPwp1T/EPF586Id5XQ=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/Thumbs.db
+SHA1-Digest: 4FL1ZDtV8DyjO0jw2OdvpW/sY2M=
+
+Name: META-INF/com/google/android/aroma/ttf/Roboto-Regular.ttf
+SHA1-Digest: tO4o4/6YHOyjxmdbk05Eu/9bKGo=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/cb_press.png
+SHA1-Digest: AJNVAWzntdg7iWH9ZSdltTyR50s=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.install.
+ png
+SHA1-Digest: F9fwv7BSK+fDi2tVJOHeSujAAqw=
+
+Name: META-INF/com/google/android/aroma/themes/miui/radio.png
+SHA1-Digest: H6EN6qQjJYfQ+w5d9O1Kge6QW+4=
+
+Name: META-INF/com/google/android/aroma/custombox_test.edify
+SHA1-Digest: vclVctmOO1wMymdaAZ8iNbwWGvk=
+
+Name: META-INF/com/google/android/aroma/themes/miui/dialog.9.png
+SHA1-Digest: eyY7BIUn36sU4VgbE0WAbqBVUko=
+
+Name: META-INF/com/google/android/aroma/ttf/DroidSans.ttf
+SHA1-Digest: YvKEH2HkvmagMDzRVn7S0wC04xw=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/button_focus.
+ 9.png
+SHA1-Digest: Z34Ng+e/2JKSiwlkh0fIUgXlGB0=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/radio_press.p
+ ng
+SHA1-Digest: lu+YMn2ecK0Eep2B+jGlFp5SenM=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/navbar.png
+SHA1-Digest: 4WuQMDiQ0LEOZMYNBDwqsSGaDqM=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/cb_on_press.p
+ ng
+SHA1-Digest: vrnJmxyGeXueVvyd+vh0Uc1Xuzs=
+
+Name: META-INF/com/google/android/aroma/themes/miui/radio_on.png
+SHA1-Digest: jZUYncx199Mxl6kNPZCiT6AfEYY=
+
+Name: META-INF/com/google/android/aroma/langs/es.lang
+SHA1-Digest: E5l31ItnzqwsrKbEYRek+x65CTw=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.back.png
+SHA1-Digest: Fdwh6JHeLoFPstvuIJAALQx3PO0=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.back.png
+SHA1-Digest: RCHE8vfVHImvpdpGLOKsNY6Mimg=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.info.png
+SHA1-Digest: wQcpMkogSFtFq8pl9D+lwdD7yTw=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/button_press.9
+ .png
+SHA1-Digest: I4F1Adn/yC7Aa6ur3V3reoenAN4=
+
+Name: META-INF/com/google/android/aroma/icons/default.png
+SHA1-Digest: 75xqsrZegulFIjheicul/9p3vDI=
+
+Name: META-INF/com/google/android/aroma/themes/ics/cb.png
+SHA1-Digest: oeAISHDwnZrriLPKTEEo70H6gnU=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.update.png
+SHA1-Digest: Zx6RwYll+J/E3oJa2v+Q3znY244=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/font.roboto.sm
+ all.png
+SHA1-Digest: ZNz6KrAyxXjJKgn8oksPWvggDSw=
+
+Name: META-INF/com/google/android/aroma/ttf/DroidSansArabic.ttf
+SHA1-Digest: YIEKivi/ad3hXGZijUvBDjvc+KQ=
+
+Name: META-INF/com/google/android/aroma/icons/info.png
+SHA1-Digest: wXzISs8bYShG8Cmw6spH1MW9wxU=
+
+Name: META-INF/com/google/android/aroma/splash/a3.png
+SHA1-Digest: E3ciyNTeP9YZGWcQwnHa7UGm3k0=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.exit.png
+SHA1-Digest: Rz4ncT3IT2HDMwLelac6CnGK9Yo=
+
+Name: META-INF/com/google/android/aroma/themes/ics/radio_on_press.png
+SHA1-Digest: oAmLOh2NKhPnNqlTFftxdna32EM=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/cb_on.png
+SHA1-Digest: GMF0YKgNk1axXjy/OB4cRHByPHw=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.apps.png
+SHA1-Digest: SLZlrhma7tQR93cFYqqnhnb76Hw=
+
+Name: META-INF/com/google/android/aroma/icons/back.png
+SHA1-Digest: 985nfub9+KbU5Xq3sMOmtE13OkE=
+
+Name: META-INF/com/google/android/aroma/themes/ics/theme.prop
+SHA1-Digest: 6HHZkIkCzg3tO1MmWXV9x86Fq50=
+
+Name: META-INF/com/google/android/aroma-config
+SHA1-Digest: gLocBn/XSgvwWbjrUnSXhUK6Vi8=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.default.png
+SHA1-Digest: kJhR77eSicgbcSv1hx6+aI1b5wE=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.back.png
+SHA1-Digest: 985nfub9+KbU5Xq3sMOmtE13OkE=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/bg.png
+SHA1-Digest: FYKxE9C7q58qmv0xSIoWwy3gJHw=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.update.png
+SHA1-Digest: Zx6RwYll+J/E3oJa2v+Q3znY244=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.modem.png
+SHA1-Digest: GlcI+LSh3VBiXMA2EG/HqxUqZVI=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/radio_on_pres
+ s.png
+SHA1-Digest: NT809zsU8bba03pGZwFs4loAOf4=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.apps.png
+SHA1-Digest: bOi+kryDjb2nuVqPkw6TtJgqjL4=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/cb_on.png
+SHA1-Digest: Dfpz6qS+TeOb6dOBYDz3pA0hIK4=
+
+Name: META-INF/com/google/android/aroma/themes/ics/cb_on_press.png
+SHA1-Digest: y5Jp8GjfzJGHs3nu87s/6y/bGxw=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/font.roboto.b
+ ig.png
+SHA1-Digest: RiGuvH217yFlZjgoZdJHyrUSpIw=
+
+Name: META-INF/com/google/android/aroma/themes/ics/font.roboto.big.png
+SHA1-Digest: RiGuvH217yFlZjgoZdJHyrUSpIw=
+
+Name: META-INF/com/google/android/aroma/themes/miui/theme.prop
+SHA1-Digest: J4zwRsBi+zj7gspzvf/zpSMXI74=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/theme.prop
+SHA1-Digest: uwR71M7kuxPChPHdPdQMQVYZrpY=
+
+Name: META-INF/com/google/android/aroma/themes/miui/nav.9.png
+SHA1-Digest: mL2Czj7W/XMnRVkpvhaVJ9sQJQA=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.info.png
+SHA1-Digest: r+VGmT0ZkHwjGTlBMhtQgU0m5NI=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/list.9.png
+SHA1-Digest: cvmW8a//kN2Zuflr9gChdfaQyIo=
+
+Name: META-INF/com/google/android/aroma/themes/ics/list.9.png
+SHA1-Digest: MQ1CuIFFaac31Ztp4/bKB2zy4so=
+
+Name: META-INF/com/google/android/aroma/license.txt
+SHA1-Digest: u1ecEgCOQPw76eA1fV5q3KRckjs=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.welcome.
+ png
+SHA1-Digest: VF+zc0QE7UDrUdxTRUwlajIs0CQ=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/radio.png
+SHA1-Digest: ufnHEg1QOGlJuhyfLio6uq8LMgE=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/dialog.9.png
+SHA1-Digest: fvl1I+J4XUClzboKJrZ7lxklJaM=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/cb_on_focus.png
+SHA1-Digest: fLshfrlbjVIsbeti/yG/PiUCh2w=
+
+Name: META-INF/com/google/android/aroma/langs/he.lang
+SHA1-Digest: gnJm/TXsR8CaKkfjeeIIcYlZz/0=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.license.png
+SHA1-Digest: mEl6VlLfYXvSDav7iyzHGTxdlQE=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/cb.png
+SHA1-Digest: 7njWjXw96E5xW9Gf7hA/205eXXM=
+
+Name: META-INF/com/google/android/aroma/themes/ics/bg.png
+SHA1-Digest: RmzHpQFIfRA781j8KHiq0Z4HN1w=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/button.9.png
+SHA1-Digest: pzT7jyQUOrZ7LAkK/q+EklHxBXU=
+
+Name: META-INF/com/google/android/aroma/langs/it.lang
+SHA1-Digest: 0jfMSHNkKw4WKqsCgwxPeS89nSU=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/dialog.9.png
+SHA1-Digest: sVpf54ifeh6clIK//ZJso2kqFYI=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/button_focus.9.pn
+ g
+SHA1-Digest: 8T82cExIrrNa1YK9qahD3CxxY8Q=
+
+Name: META-INF/com/google/android/aroma/themes/ics/button_focus.9.png
+SHA1-Digest: 0YL5XUFRn1fbq6FgOu4GZS+320Y=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.welcome.png
+SHA1-Digest: 27oKjS7ndKlUtKV66mWLjAhyNc4=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.next.png
+SHA1-Digest: +ggsmubCVaGg+LSH7Uc3Le2H/+o=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.info.png
+SHA1-Digest: Y+cLN5B5bo1VWnZaWyo2fnFewCA=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.personalize.p
+ ng
+SHA1-Digest: zuoVp1qK2kliMRBwviub6Od92Ds=
+
+Name: busybox
+SHA1-Digest: OAODnK/crrmEIg0b44WGFKXcfqY=
+
+Name: META-INF/com/google/android/aroma/exec_demo/exec_demo1.sh
+SHA1-Digest: 56vM3dw0YRFFuGEuOZ2PsbyA+Dk=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.exit.png
+SHA1-Digest: 1u2JRZ4jfvTQyOMcTy3G3r8OsR0=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/font.roboto.s
+ mall.png
+SHA1-Digest: T3mTqddiyAWyfqaFTZz3vlFX4B4=
+
+Name: META-INF/com/google/android/aroma/themes/ics/button.9.png
+SHA1-Digest: 232297aIgseY7QlXeIQsQpWnrmQ=
+
+Name: META-INF/com/google/android/aroma/themes/miui/radio_sel.png
+SHA1-Digest: qEZ6mC6GrACwiMElaqWe3GAfa/I=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.alert.png
+SHA1-Digest: ukjqcHMwNytQwKwiTuJx0oenbUA=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.next.png
+SHA1-Digest: 75zuIadlQ0VbRP+TeZ4fkWofg3M=
+
+Name: META-INF/com/google/android/aroma/themes/miui/button_press.9.png
+SHA1-Digest: WHxxqR0hcBQFgou4Km9TzW6Ihjs=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/dialog_titleb
+ ar.9.png
+SHA1-Digest: 2mzU7OP3Iiv7bhRgfJL4o3rlEKs=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/navbar.png
+SHA1-Digest: wHbU2/Yilu92fcE91mBEnN4PtZ4=
+
+Name: META-INF/com/google/android/aroma/themes/miui/cb.png
+SHA1-Digest: DUD355H8PEhlhN5sUe64dOaQ4z4=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.alert.png
+SHA1-Digest: EI7T4hZLqkjt4JqauiBy+UPi/w4=
+
+Name: META-INF/com/google/android/aroma/icons/license.png
+SHA1-Digest: Ne75iY0xgnD40gRcUCzOQh3q4/M=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.apps.png
+SHA1-Digest: AlJNRUF7l90Tt7uxtYfWqtao6ZE=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.customize
+ .png
+SHA1-Digest: 4xZsjvgtqtdEcye7RhSsp8YtyNY=
+
+Name: META-INF/com/google/android/aroma/themes/miui/button_focus.9.png
+SHA1-Digest: HTcJ9GkUS/syhv3paFlHTjypxuI=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/cb_on_press.pn
+ g
+SHA1-Digest: cYFdAolMMFlyxHjr3eyDs8wHhJo=
+
+Name: META-INF/com/google/android/aroma/exec_demo/exec_demo2.sh
+SHA1-Digest: Jbqg5ggc0Hr9qASPE4iqWzvmOA8=
+
+Name: META-INF/com/google/android/aroma/themes/ics/button_press.9.png
+SHA1-Digest: CqQx6JIXETNaracMRWosToJHdtE=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.license.png
+SHA1-Digest: mEl6VlLfYXvSDav7iyzHGTxdlQE=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.license.p
+ ng
+SHA1-Digest: c4s1jNTnEpbkTO9ODpEuPJSGZm0=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/cb_press.png
+SHA1-Digest: cdLENdVgLHKa0lRSDxoxvk/tHm0=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/button_focus.9
+ .png
+SHA1-Digest: y6vzzZ6liMyLp7OVuctUQy6yU24=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/radio_on.png
+SHA1-Digest: EIIZD/s/tepbJb++i99xxUeQqP8=
+
+Name: META-INF/com/google/android/update-binary-installer
+SHA1-Digest: GZ+9X0ra+kM28qh/Dsrgb0KaIQA=
+
+Name: META-INF/com/google/android/aroma/language_select.edify
+SHA1-Digest: PjRia+lb4n2JiGWU3V8RPO4Fq5o=
+
+Name: META-INF/com/google/android/aroma/langs/ru.lang
+SHA1-Digest: 5MI0eydebFGCJs1GhvrxP3XLl4s=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/list.9.png
+SHA1-Digest: BUM2LNx30zkn1Yy0S8LqMA4a+XE=
+
+Name: META-INF/com/google/android/aroma/themes/miui/titlebar.9.png
+SHA1-Digest: uY9GFG9GOGYh9Kei4/CWneS8n3E=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/theme.prop
+SHA1-Digest: lWyWrWzQkoKT3M0ncSEJiDVqCEw=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: tc0LUL4okfVvI51e4BjRMqUUg1U=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/radio_on_press.pn
+ g
+SHA1-Digest: u7XEtuBOYdvYcFJszcca6R3qJI8=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.info.png
+SHA1-Digest: wXzISs8bYShG8Cmw6spH1MW9wxU=
+
+Name: META-INF/com/google/android/aroma/themes/ics/cb_focus.png
+SHA1-Digest: VdA4yfUKMmqcjVlkkPoBY0j/eZ0=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/cb_focus.png
+SHA1-Digest: KSqdZnikKXK4mOs0f5Yvm+Uh5eE=
+
+Name: META-INF/com/google/android/aroma/langs/en.lang
+SHA1-Digest: CZomJA+9/rt+vu+X2Em1q1hlgB4=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/theme.prop
+SHA1-Digest: r7zcighhGZZFHmKRkbg3jTaDccA=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.agreement.png
+SHA1-Digest: zcSQ69LRcLQROme1IL5wyfDNvw8=
+
+Name: META-INF/com/google/android/aroma/themes/ics/dialog.9.png
+SHA1-Digest: qdN1tiF48WLcjWDf2rlvZw9l3Dg=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/dialog.9.png
+SHA1-Digest: +z6VsyunBNaF6eymAaET0iajUfE=
+
+Name: META-INF/com/google/android/aroma/icons/next.png
+SHA1-Digest: HMW6EFtaLuWT0i+uPiiFNl4rgvk=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/cb_on_focus.pn
+ g
+SHA1-Digest: igZIxhcSnB8evgSSzfSsnmfQ97M=
+
+Name: META-INF/com/google/android/aroma/exec_demo/sleep
+SHA1-Digest: jAkVLOqPI7ODZxQ4bR2rLft4+Xg=
+
+Name: META-INF/com/google/android/aroma/icons/confirm.png
+SHA1-Digest: YeJPRW3VKUhuHZf6Y0a5iznavIA=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.install.png
+SHA1-Digest: Z9GbtEX1fEsv4TJTUFq/j/AvcIg=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/radio_focus.pn
+ g
+SHA1-Digest: jBpjTqofKZuhcPDZ2zu8tkarREg=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/cb_press.png
+SHA1-Digest: VUqVJwLAZ5TaDLenHT7FKzPlmMk=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/navbar.9.png
+SHA1-Digest: d8gC4VdmGQWdfMX7XRv0fHnShCM=
+
+Name: META-INF/com/google/android/aroma/themes/ics/radio_press.png
+SHA1-Digest: yEdJA70UtZyLYEJwyL4D0k9sMaA=
+
+Name: META-INF/com/google/android/aroma/themes/ics/cb_on.png
+SHA1-Digest: fKtlvTPYrNzkIywCrxmjO8oqd2Y=
+
+Name: META-INF/com/google/android/aroma/themes/miui/radio_on_sel.png
+SHA1-Digest: 8rqy5B6kPwpjuY1Vxg0xQ66BP5Y=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.personalize.pn
+ g
+SHA1-Digest: TsXq7lW4jejm6CAIfk6gpxQfLPc=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/cb_on_focus.p
+ ng
+SHA1-Digest: CsV+GWOwtn2BDT813TsvTNApiow=
+
+Name: META-INF/com/google/android/aroma/themes/ics/icon.default.png
+SHA1-Digest: +Q7SWhZEeIfiOksql2OQz/27spU=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.default.png
+SHA1-Digest: kJhR77eSicgbcSv1hx6+aI1b5wE=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/radio_focus.png
+SHA1-Digest: y84gDQCxWRfq1DsuaYgykndXaQc=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.back.png
+SHA1-Digest: kwL0uiZd3E7sC7G+zmIrvkOgxVs=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/icon.menu.png
+SHA1-Digest: 1H7ZkuhtA7FeQSiC0vMUAmym334=
+
+Name: META-INF/com/google/android/aroma/themes/miui/font.roboto.big.pn
+ g
+SHA1-Digest: RiGuvH217yFlZjgoZdJHyrUSpIw=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.customize.png
+SHA1-Digest: OC+Fp8FDuTqIbwYW9Q0AWYul6a0=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/icon.install.png
+SHA1-Digest: VGTGBaI/nU2gf7+b5EVQo0dgSgs=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.default.p
+ ng
+SHA1-Digest: tAjQhFY/3QLVTiBYshWuoC6bspw=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/cb.png
+SHA1-Digest: RcJookrxsxmN98b0pdHWj1BOhsY=
+
+Name: META-INF/com/google/android/aroma/themes/miui/select.9.png
+SHA1-Digest: ylYaIxpp/n9y9VDi0lJ6vzTrPt0=
+
+Name: META-INF/com/google/android/aroma/splash/a4.png
+SHA1-Digest: JvjUKZJ/AmHRTENZbvGKm5NKtMQ=
+
+Name: META-INF/com/google/android/aroma/themes/touchwiz/icon.install.p
+ ng
+SHA1-Digest: DHfw6frXGXBazHMKWurAElcuzJ4=
+
+Name: META-INF/com/google/android/aroma/exec_demo/displaycapture
+SHA1-Digest: fPOVKCpMSmP6XxbbXqpUfuLR2+w=
+
+Name: META-INF/com/google/android/aroma/themes/franzyroy/button.9.png
+SHA1-Digest: InlGz7Cq45PigWMA4uPLHlms3+0=
+
+Name: META-INF/com/google/android/aroma/icons/customize.png
+SHA1-Digest: BaZ7Q5/xMfjVC22hsYmQ3lfKfBw=
+
+Name: META-INF/com/google/android/aroma/icons/apps.png
+SHA1-Digest: lF86HG3SbWCpYxGFZAa70XIqVyQ=
+
+Name: META-INF/com/google/android/aroma/themes/ics/dialog_titlebar.9.p
+ ng
+SHA1-Digest: ygDYUjUcXD60JTocnpPnuzO6JwM=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/radio.png
+SHA1-Digest: LVAKK2kcMpREoet5CapFKTKq83s=
+
+Name: META-INF/com/google/android/aroma/fonts/small.png
+SHA1-Digest: NpOxVoYjn+jGVAP+tjaq9R2D4eA=
+
+Name: META-INF/com/google/android/aroma/themes/miui/dialog_titlebar.9.
+ png
+SHA1-Digest: QfHgPDNQA/YUFarUIi884QHydm0=
+
+Name: META-INF/com/google/android/aroma/icons/installbutton.png
+SHA1-Digest: i+jvOYibjVqu6OmQmCwv6seejl8=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/cb_on_press.png
+SHA1-Digest: 9scIoxMMG0xw+N9C2ADHpk+CIio=
+
+Name: META-INF/com/google/android/aroma/themes/miui/icon.install.png
+SHA1-Digest: VGTGBaI/nU2gf7+b5EVQo0dgSgs=
+
+Name: META-INF/com/google/android/aroma/themes/miui4/dialog_titlebar.9
+ .png
+SHA1-Digest: /G/B/0qIxhrr9OtEl2g5/XE61dc=
+

@@ -1,0 +1,67 @@
+img.background=background
+img.titlebar=titlebar
+img.navbar=navbar
+img.dialog=dialog
+img.dialog.titlebar=dialog_titlebar
+img.progress=progress_empty.9
+img.prograss.fill=progress_full.9
+img.selection=select
+img.selection.push=select_push
+
+img.button=button_rest
+img.button.focus=button_focus
+img.button.push=button_press
+
+img.checkbox=cb
+img.checkbox.focus=cb_sel
+img.checkbox.push=cb_sel
+img.checkbox.on=cb_on
+img.checkbox.on.focus=cb_on_sel
+img.checkbox.on.push=cb_on_sel
+
+img.radio=radio
+img.radio.focus=radio_sel
+img.radio.push=radio_sel
+img.radio.on=radio_on
+img.radio.on.focus=radio_on_sel
+img.radio.on.push=radio_on_sel
+
+
+color.winbg           = #000000
+color.winbg_g         = #000000
+color.winfg           = #ffffff
+color.winfg_gray      = #bbbbbb
+color.dialogbg        = #000000
+color.dialogbg_g      = #000000
+color.dialogfg        = #ffffff
+color.textbg          = #000000
+color.textfg          = #ffffff
+color.textfg_gray     = #bbbbbb
+color.controlbg       = #787878
+color.controlbg_g     = #555555
+color.controlfg       = #ffffff
+color.selectbg        = #555555
+color.selectbg_g      = #777777
+color.selectfg        = #ffffff
+color.titlebg         = #000000
+color.titlebg_g       = #000000
+color.titlefg         = #ffffff
+color.dlgtitlebg      = #000000
+color.dlgtitlebg_g    = #000000
+color.dlgtitlefg      = #ffffff
+color.scrollbar       = #787878
+color.navbg           = #000000
+color.navbg_g         = #000000
+color.border          = #000000
+color.border_g        = #000000
+color.progressglow    = #787878
+
+
+config.roundsize             = 1
+config.button_roundsize      = 1
+config.window_roundsize      = 1
+config.transition_frame      = 5
+
+info.themename        = Team Black Out
+info.description      = Team Black Out Theme for AROMA Installer
+info.author           = Team Black Out (originally by Daniiiik49)
